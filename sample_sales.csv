@@ -1,0 +1,101 @@
+﻿Sale_ID,Date,Product,Category,Region,Units_Sold,Unit_Price,Revenue,Customer_Type,Payment_Mode
+S001,2025-01-30,Refrigerator,Appliances,West,,30000,,New,Cash
+S002,2025-01-31,Blender,Appliances,West,,3500,,Returning,Debit Card
+S003,2025-01-26,Jeans,Fashion,North,2,1200,2400,Returning,Cash
+S004,2025-02-08,Shoes,Fashion,East,8,2500,20000,New,Credit Card
+S005,2025-02-05,Washing Machine,Appliances,West,,25000,,New,Debit Card
+S006,2025-02-11,Blender,Appliances,North,,3500,,Returning,UPI
+S007,2025-01-12,T-Shirt,Fashion,East,,500,,New,UPI
+S008,2025-02-01,Microwave,Appliances,North,,10000,,Returning,UPI
+S009,2025-01-06,Microwave,Appliances,North,,10000,,New,Credit Card
+S010,2025-02-26,Laptop,Electronics,East,6,55000,330000,New,Cash
+S011,2025-02-09,Refrigerator,Appliances,West,6,30000,180000,New,UPI
+S012,2025-01-26,Headphones,Electronics,East,6,1500,9000,Returning,Credit Card
+S013,2025-02-10,Mobile Phone,Electronics,West,,20000,,Returning,Cash
+S014,2025-02-22,Jeans,Fashion,West,5,1200,6000,New,Debit Card
+S015,2025-02-26,Blender,Appliances,East,,3500,,New,Debit Card
+S016,2025-02-01,Microwave,Appliances,North,2,10000,20000,New,Credit Card
+S017,2025-01-24,Blender,Appliances,West,3,3500,10500,New,Cash
+S018,2025-03-01,T-Shirt,Fashion,North,10,500,5000,Returning,Debit Card
+S019,2025-02-02,Mobile Phone,Electronics,East,,20000,,Returning,Cash
+S020,2025-02-06,Jeans,Fashion,North,9,1200,10800,Returning,UPI
+S021,2025-02-22,Laptop,Electronics,West,4,55000,220000,New,UPI
+S022,2025-02-10,Laptop,Electronics,South,1,55000,55000,Returning,Debit Card
+S023,2025-02-21,Laptop,Electronics,West,,55000,,New,Credit Card
+S024,2025-01-04,Shoes,Fashion,North,4,2500,10000,Returning,UPI
+S025,2025-01-21,Laptop,Electronics,North,4,55000,220000,New,Cash
+S026,2025-02-05,Jeans,Fashion,East,,1200,,New,Credit Card
+S027,2025-02-10,Microwave,Appliances,East,,10000,,Returning,UPI
+S028,2025-01-19,Shoes,Fashion,West,,2500,,Returning,UPI
+S029,2025-01-02,Blender,Appliances,West,4,3500,14000,Returning,Cash
+S030,2025-01-03,Blender,Appliances,North,,3500,,Returning,Debit Card
+S031,2025-02-09,Refrigerator,Appliances,North,6,30000,180000,Returning,Credit Card
+S032,2025-03-02,Microwave,Appliances,South,,10000,,New,Debit Card
+S033,2025-02-14,Jeans,Fashion,West,5,1200,6000,Returning,Debit Card
+S034,2025-02-14,T-Shirt,Fashion,East,5,500,,New,UPI
+S035,2025-02-10,Laptop,Electronics,East,3,55000,165000,Returning,Debit Card
+S036,2025-02-03,Jeans,Fashion,West,,1200,,New,Credit Card
+S037,2025-01-16,Headphones,Electronics,East,,1500,,New,UPI
+S038,2025-02-12,Laptop,Electronics,East,7,55000,385000,New,Cash
+S039,2025-01-31,Mobile Phone,Electronics,East,,20000,,New,Debit Card
+S040,2025-01-04,Refrigerator,Appliances,East,9,30000,270000,New,UPI
+S041,2025-02-22,Shoes,Fashion,East,10,2500,25000,Returning,UPI
+S042,2025-02-09,Washing Machine,Appliances,South,,25000,,New,UPI
+S043,2025-03-02,Refrigerator,Appliances,South,3,30000,90000,New,UPI
+S044,2025-02-01,Washing Machine,Appliances,North,7,25000,175000,Returning,UPI
+S045,2025-02-02,T-Shirt,Fashion,North,,500,,Returning,Cash
+S046,2025-02-09,Refrigerator,Appliances,East,,30000,,New,Debit Card
+S047,2025-01-13,Mobile Phone,Electronics,West,,20000,,Returning,Cash
+S048,2025-03-02,Blender,Appliances,South,,3500,,New,UPI
+S049,2025-02-26,Jeans,Fashion,North,2,1200,2400,New,UPI
+S050,2025-02-06,Microwave,Appliances,South,1,10000,10000,Returning,Cash
+S051,2025-01-05,Blender,Appliances,West,3,3500,10500,Returning,Debit Card
+S052,2025-02-26,Mobile Phone,Electronics,South,,20000,,Returning,Cash
+S053,2025-02-16,Blender,Appliances,East,10,3500,35000,New,Debit Card
+S054,2025-02-27,Refrigerator,Appliances,West,8,30000,240000,New,Credit Card
+S055,2025-01-21,Washing Machine,Appliances,North,1,25000,25000,New,Debit Card
+S056,2025-01-28,Microwave,Appliances,West,,10000,,Returning,Debit Card
+S057,2025-01-31,Blender,Appliances,North,,3500,,New,Cash
+S058,2025-01-16,T-Shirt,Fashion,South,,500,,Returning,Debit Card
+S059,2025-02-03,Laptop,Electronics,North,,55000,,New,UPI
+S060,2025-01-25,Headphones,Electronics,West,,1500,,Returning,Debit Card
+S061,2025-02-27,Laptop,Electronics,South,,55000,,Returning,Debit Card
+S062,2025-02-03,Mobile Phone,Electronics,South,,20000,,Returning,Debit Card
+S063,2025-02-07,T-Shirt,Fashion,South,,500,,New,Debit Card
+S064,2025-02-17,Laptop,Electronics,East,7,55000,385000,New,Debit Card
+S065,2025-02-28,Washing Machine,Appliances,West,8,25000,200000,New,Credit Card
+S066,2025-02-12,T-Shirt,Fashion,West,,500,,New,Credit Card
+S067,2025-01-26,T-Shirt,Fashion,East,4,500,2000,New,Debit Card
+S068,2025-02-09,Microwave,Appliances,East,1,10000,10000,New,Credit Card
+S069,2025-01-25,Microwave,Appliances,East,5,10000,50000,New,Debit Card
+S070,2025-02-14,T-Shirt,Fashion,North,,500,,New,Credit Card
+S071,2025-02-04,T-Shirt,Fashion,North,10,500,5000,Returning,Credit Card
+S072,2025-02-24,Microwave,Appliances,North,9,10000,90000,New,Credit Card
+S073,2025-02-19,Shoes,Fashion,East,5,2500,12500,Returning,Cash
+S074,2025-02-05,Jeans,Fashion,South,,1200,,New,Debit Card
+S075,2025-02-24,Mobile Phone,Electronics,North,,20000,,New,Debit Card
+S076,2025-01-23,T-Shirt,Fashion,North,10,500,5000,Returning,Credit Card
+S077,2025-02-26,T-Shirt,Fashion,East,5,500,2500,Returning,UPI
+S078,2025-01-03,Refrigerator,Appliances,East,6,30000,180000,Returning,Credit Card
+S079,2025-01-13,Washing Machine,Appliances,West,4,25000,100000,Returning,Credit Card
+S080,2025-02-07,Shoes,Fashion,South,,2500,,Returning,Cash
+S081,2025-02-11,Blender,Appliances,South,,3500,,Returning,UPI
+S082,2025-02-17,Headphones,Electronics,West,,1500,,Returning,Credit Card
+S083,2025-02-10,T-Shirt,Fashion,East,1,500,500,New,UPI
+S084,2025-01-30,Microwave,Appliances,North,7,10000,70000,Returning,UPI
+S085,2025-01-06,Mobile Phone,Electronics,South,,20000,,New,Credit Card
+S086,2025-01-13,Laptop,Electronics,North,7,55000,385000,New,Cash
+S087,2025-02-07,T-Shirt,Fashion,North,,500,,Returning,UPI
+S088,2025-01-10,Refrigerator,Appliances,West,10,30000,300000,Returning,Credit Card
+S089,2025-01-12,Jeans,Fashion,South,,1200,,New,Debit Card
+S090,2025-02-10,Mobile Phone,Electronics,South,,20000,,Returning,Debit Card
+S091,2025-01-15,Laptop,Electronics,East,1,55000,55000,New,Cash
+S092,2025-01-09,Shoes,Fashion,West,,2500,,Returning,Cash
+S093,2025-01-22,Shoes,Fashion,West,6,2500,15000,New,UPI
+S094,2025-01-04,Shoes,Fashion,North,,2500,,New,Debit Card
+S095,2025-01-08,Blender,Appliances,North,5,3500,17500,New,Cash
+S096,2025-02-14,Laptop,Electronics,West,,55000,,New,Cash
+S097,2025-01-24,Shoes,Fashion,North,,2500,,Returning,Cash
+S098,2025-02-28,Refrigerator,Appliances,North,10,30000,300000,Returning,Credit Card
+S099,2025-02-11,Mobile Phone,Electronics,East,8,20000,160000,New,Cash
+S100,2025-02-28,Shoes,Fashion,West,7,2500,17500,New,Cash
